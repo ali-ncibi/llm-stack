@@ -1,0 +1,7 @@
+secrets.env
+config.yaml
+dash-token
+.dash-token
+.dash.pid
+*.kubeconfig
+loadtest/20*/
